@@ -1,3 +1,5 @@
+# https://www.linkedin.com/learning-login/share?account=2273370&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fpython-essential-training-18764650%2Fchallenge-factorials%3Ftrk%3Dshare_video_url%26shareId%3DO9qDwjxFSC233fVRw0H0Pw%253D%253D
+
 def factorial(number):
     if type(number) is not int: # if number is not a integer
         return None
